@@ -94,8 +94,8 @@
   "navbar": {
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Chat now",
+      "href": "https://gradai.xyz"
     }
   },
   "contextual": {
