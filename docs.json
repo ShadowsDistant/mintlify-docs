@@ -16,7 +16,7 @@
           {
             "group": "Getting started",
             "pages": [
-              "about-us",
+              "aboutus",
               "quickstart",
               "development"
             ]
