@@ -16,9 +16,8 @@
           {
             "group": "Getting started",
             "pages": [
-              "aboutus",
-              "usecases",
-              "development"
+              "getting-started/aboutus",
+              "getting-started/usecases"
             ]
           },
           {
