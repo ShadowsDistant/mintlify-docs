@@ -5,7 +5,11 @@
   "colors": {
     "primary": "#007ACC",
     "light": "#007ACC",
-    "dark": "#007ACC"
+    "dark": "#007ACC",
+    "background": {
+      "light": "#FFFFFF",
+      "dark": "#1e1e1e"
+    }
   },
   "favicon": "craiyon_232456_image.png",
   "navigation": {
@@ -91,15 +95,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
