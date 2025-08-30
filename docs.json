@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "GradAI Documentation",
   "colors": {
-    "primary": "#ffffff",
-    "light": "#007ACC",
-    "dark": "#ffffff"
+    "primary": "#6B7280",
+    "light": "#F9FAFB",
+    "dark": "#1F2937"
   },
   "favicon": "craiyon_232456_image.png",
   "navigation": {
